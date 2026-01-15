@@ -1,5 +1,4 @@
-````markdown#
- 📊 Unemployment Rate Prediction Dashboard - India
+# 📊 Unemployment Rate Prediction Dashboard - India
 
 This project is an **interactive Data Science dashboard** that analyzes and predicts the **unemployment rate in India**. It is built using **Python, Streamlit, and Linear Regression**, allowing users to explore historical trends and forecast future unemployment rates for different regions.
 
@@ -114,4 +113,5 @@ This project is an **interactive Data Science dashboard** that analyzes and pred
 ```
 
 ---
+
 
