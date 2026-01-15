@@ -1,4 +1,5 @@
-# 📊 Unemployment Rate Prediction Dashboard - India
+````markdown#
+ 📊 Unemployment Rate Prediction Dashboard - India
 
 This project is an **interactive Data Science dashboard** that analyzes and predicts the **unemployment rate in India**. It is built using **Python, Streamlit, and Linear Regression**, allowing users to explore historical trends and forecast future unemployment rates for different regions.
 
@@ -45,25 +46,25 @@ This project is an **interactive Data Science dashboard** that analyzes and pred
    python -m venv .venv
    source .venv/bin/activate  # Linux / Mac
    .venv\Scripts\activate     # Windows
-   ```
+   ````
 
 3. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
-   ```
+   ````
 
 4. **Run the Streamlit app**
 
    ```bash
    streamlit run app.py
-   ```
+   ````
 
 5. Open the browser at:
 
    ```
    http://localhost:8501
-   ```
+   ````
 
 ---
 
@@ -105,12 +106,12 @@ This project is an **interactive Data Science dashboard** that analyzes and pred
 
 ## 🔹 Author
 
-**Rida Aafreen**
+**Rida Afreen**
 
 * GitHub: [ridaafreen-er](https://github.com/ridaafreen-er)
 * Data Science & Python Enthusiast
 
-
-
 ```
+
+---
 
