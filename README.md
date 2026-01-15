@@ -105,7 +105,7 @@ This project is an **interactive Data Science dashboard** that analyzes and pred
 
 ## 🔹 Author
 
-**Rida Afreen**
+**Rida Aafreen**
 
 * GitHub: [ridaafreen-er](https://github.com/ridaafreen-er)
 * Data Science & Python Enthusiast
@@ -113,5 +113,6 @@ This project is an **interactive Data Science dashboard** that analyzes and pred
 ```
 
 ---
+
 
 
